@@ -1,3 +1,5 @@
 # Game of Life
 
-see documentation to get more info
+Simple project; see documentation to get more info
+
+containts of exe and sfml files 
